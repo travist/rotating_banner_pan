@@ -1,5 +1,7 @@
 This plugin was built to be used with the http://drupal.org/project/rotating_banner module in Drupal.  It basically adds a panning feature where the image pans for the rotating banner.
 
+See http://www.anniesdesigns.com for an example.
+
 To use, please do the following.
 
 1.)  Install Drupal 7.
